@@ -130,7 +130,7 @@ EOF" || {
 	echo -e "${GREEN}[INFO ] Samba setup completed${RESET}"
 }
 # --------------------------------------
-echo -e "Linxu-18 Base Presets"
+echo -e "Linux-22 SCEU Presets"
 
 sudo -v || exit 1
 update_packages || exit 1
